@@ -48,13 +48,13 @@
 
 ## 📑 Licenses & Certifications
 
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="30">
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="25">
 
 - Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
 - Versionamento de Código com Git e Github
 - Desafios de Projetos: Crie um Portfólio Vencedor
 
-<img src="https://logosmarcas.net/wp-content/uploads/2021/11/Udemy-Logo.png" height="30">
+<img src="https://logosmarcas.net/wp-content/uploads/2021/11/Udemy-Logo.png" height="35">
 
 - Algoritmos e Lógica de Programação
 

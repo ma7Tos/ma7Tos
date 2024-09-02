@@ -54,7 +54,7 @@
 - Versionamento de Código com Git e Github
 - Desafios de Projetos: Crie um Portfólio Vencedor
 
-<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" height="30">
+<img src="https://vetores.org/d/udemy.svg" height="30">
 
 - Algoritmos e Lógica de Programação
 

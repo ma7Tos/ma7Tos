@@ -1,6 +1,6 @@
 # <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" height="25">/ma7Tos
  
- _My name is Felipe Mattos, 29, and I'm returning to my studies on programming after some years away. I had my first contact with codes more then 10 years ago hen I entered in a Game Development college, due to personal reasons I never finish it. Today I'm a professional in the electrical and industrial automation area, with knowledge ineletronics and high voltage and currently wotk in a big national Industrial Automation company. I have contact with SQL Database and Ladder language for Rockwell PLCs. I started my bachelor's degree in Electrical Engineering 1 year ago, and now I intend to improve myself professionally, geting back into contact with codes and expanding my areas of knowledge._
+ _My name is Felipe Mattos, 30, and I'm returning to my studies on programming after some years away. I had my first contact with codes more then 10 years ago hen I entered in a Game Development college, due to personal reasons I never finish it. Today I'm a professional in the electrical and industrial automation area, with knowledge ineletronics and high voltage and currently wotk in a big national Industrial Automation company. I have contact with SQL Database and Ladder language for Rockwell PLCs. I started my bachelor's degree in Electrical Engineering 1 year ago, and now I intend to improve myself professionally, geting back into contact with codes and expanding my areas of knowledge._
 
  _I love music, games, cats, and I'm a die hard Star Wars fan!_
 
@@ -48,15 +48,19 @@
 
 ## 📑 Licenses & Certifications
 
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="25">
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="30">
 
 - Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
 - Versionamento de Código com Git e Github
 - Desafios de Projetos: Crie um Portfólio Vencedor
 
-<img src="https://logosmarcas.net/wp-content/uploads/2021/11/Udemy-Logo.png" height="35">
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" height="30">
 
 - Algoritmos e Lógica de Programação
+
+<img src="https://images.squarespace-cdn.com/content/v1/631f784b2a1c9b79d2b3f734/44391c01-cf73-49be-b56c-79d3dc848727/WAGO_LOGO_RGB.png?format=1500w" height="30">
+
+- Codesys 3.5 
 
 <img src="https://www.sp.senai.br/images/senai.svg" height="30">
 
@@ -77,4 +81,6 @@
 
 ---
 > "Your focus determines your reality" - Qui-Gon Jinn
+
+
 
